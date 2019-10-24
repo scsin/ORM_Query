@@ -1,6 +1,8 @@
 .pytest_cache/
 __pycache__/
 env/
+.vscode/
 
 db.sqlite3
-requirements.txt
+output.xml
+stdout.txt
